@@ -8,6 +8,7 @@ int main()
    
     int * pVariable1;
 
+    variable1 = 2;
     pVariable1 = &variable1;
 
     printf("Contenido: %d \n", variable1);

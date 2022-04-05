@@ -10,13 +10,13 @@ int main()
 {
     int A = 10;
     
-    CambiarValorVariable(A);
+    CambiarValorVariablePorReferencia(&A);
 
     printf("Contenido Fuera de la función: %d \n", A);
 
-    CambiarValorVariablePorReferencia(A);
+   //  CambiarValorVariablePorReferencia(A);
 
-    printf("Contenido Fuera de la función: %d \n", A);
+   // printf("Contenido Fuera de la función: %d \n", A);
  
     
     getchar();
@@ -33,5 +33,5 @@ void CambiarValorVariable(int B)
 void CambiarValorVariablePorReferencia(int * B)
 {
     *B = *B + 10;
-    printf("Contenido dentro de la función: %d \n", B);
+    printf("Contenido dentro de la función: %d \n", *B);
 }
