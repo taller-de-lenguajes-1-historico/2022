@@ -1,0 +1,16 @@
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\TrabajandoJson.csproj.AssemblyReference.cache
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\TrabajandoJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\TrabajandoJson.AssemblyInfoInputs.cache
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\TrabajandoJson.AssemblyInfo.cs
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\TrabajandoJson.csproj.CoreCompileInputs.cache
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\bin\Debug\net5.0\TrabajandoJson.exe
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\bin\Debug\net5.0\TrabajandoJson.deps.json
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\bin\Debug\net5.0\TrabajandoJson.runtimeconfig.json
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\bin\Debug\net5.0\TrabajandoJson.runtimeconfig.dev.json
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\bin\Debug\net5.0\TrabajandoJson.dll
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\bin\Debug\net5.0\ref\TrabajandoJson.dll
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\bin\Debug\net5.0\TrabajandoJson.pdb
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\TrabajandoJson.dll
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\ref\TrabajandoJson.dll
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\TrabajandoJson.pdb
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\TrabajandoJson\obj\Debug\net5.0\TrabajandoJson.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\bin\Debug\netcoreapp3.1\TrabanjadoConArchivos.exe
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\bin\Debug\netcoreapp3.1\TrabanjadoConArchivos.deps.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\bin\Debug\netcoreapp3.1\TrabanjadoConArchivos.runtimeconfig.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\bin\Debug\netcoreapp3.1\TrabanjadoConArchivos.runtimeconfig.dev.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\bin\Debug\netcoreapp3.1\TrabanjadoConArchivos.dll
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\bin\Debug\netcoreapp3.1\TrabanjadoConArchivos.pdb
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\obj\Debug\netcoreapp3.1\TrabanjadoConArchivos.csprojAssemblyReference.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\obj\Debug\netcoreapp3.1\TrabanjadoConArchivos.AssemblyInfoInputs.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\obj\Debug\netcoreapp3.1\TrabanjadoConArchivos.AssemblyInfo.cs
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\obj\Debug\netcoreapp3.1\TrabanjadoConArchivos.csproj.CoreCompileInputs.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\obj\Debug\netcoreapp3.1\TrabanjadoConArchivos.dll
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\obj\Debug\netcoreapp3.1\TrabanjadoConArchivos.pdb
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabanjadoConArchivos\obj\Debug\netcoreapp3.1\TrabanjadoConArchivos.genruntimeconfig.cache

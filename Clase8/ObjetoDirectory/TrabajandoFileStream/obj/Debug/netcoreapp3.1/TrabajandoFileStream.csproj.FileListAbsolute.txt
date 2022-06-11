@@ -1,0 +1,13 @@
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\bin\Debug\netcoreapp3.1\TrabajandoFileStream.exe
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\bin\Debug\netcoreapp3.1\TrabajandoFileStream.deps.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\bin\Debug\netcoreapp3.1\TrabajandoFileStream.runtimeconfig.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\bin\Debug\netcoreapp3.1\TrabajandoFileStream.runtimeconfig.dev.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\bin\Debug\netcoreapp3.1\TrabajandoFileStream.dll
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\bin\Debug\netcoreapp3.1\TrabajandoFileStream.pdb
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\obj\Debug\netcoreapp3.1\TrabajandoFileStream.csprojAssemblyReference.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\obj\Debug\netcoreapp3.1\TrabajandoFileStream.AssemblyInfoInputs.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\obj\Debug\netcoreapp3.1\TrabajandoFileStream.AssemblyInfo.cs
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\obj\Debug\netcoreapp3.1\TrabajandoFileStream.csproj.CoreCompileInputs.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\obj\Debug\netcoreapp3.1\TrabajandoFileStream.dll
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\obj\Debug\netcoreapp3.1\TrabajandoFileStream.pdb
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\TrabajandoFileStream\obj\Debug\netcoreapp3.1\TrabajandoFileStream.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCa/QdF3rVrQjPYXGEReAzQ8TEX7xlB7fP2uh+0JT2ESpmYehI8YyZu79HfasD/MdcVmNuITiynXbPxAUjdY4A==",
+  "success": true,
+  "projectFilePath": "C:\\RepoGit\\Taller1\\2022\\Clase8\\ObjetoDirectory\\LectorCSV\\LectorCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

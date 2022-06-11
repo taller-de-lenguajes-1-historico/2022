@@ -1,0 +1,13 @@
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\bin\Debug\netcoreapp3.1\LectorCSV.exe
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\bin\Debug\netcoreapp3.1\LectorCSV.deps.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\bin\Debug\netcoreapp3.1\LectorCSV.runtimeconfig.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\bin\Debug\netcoreapp3.1\LectorCSV.runtimeconfig.dev.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\bin\Debug\netcoreapp3.1\LectorCSV.dll
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\bin\Debug\netcoreapp3.1\LectorCSV.pdb
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\obj\Debug\netcoreapp3.1\LectorCSV.csprojAssemblyReference.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\obj\Debug\netcoreapp3.1\LectorCSV.AssemblyInfoInputs.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\obj\Debug\netcoreapp3.1\LectorCSV.AssemblyInfo.cs
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\obj\Debug\netcoreapp3.1\LectorCSV.csproj.CoreCompileInputs.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\obj\Debug\netcoreapp3.1\LectorCSV.dll
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\obj\Debug\netcoreapp3.1\LectorCSV.pdb
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\LectorCSV\obj\Debug\netcoreapp3.1\LectorCSV.genruntimeconfig.cache

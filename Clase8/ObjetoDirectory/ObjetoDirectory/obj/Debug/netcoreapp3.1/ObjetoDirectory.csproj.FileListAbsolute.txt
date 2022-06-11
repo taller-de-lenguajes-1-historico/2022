@@ -1,0 +1,13 @@
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\bin\Debug\netcoreapp3.1\ObjetoDirectory.exe
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\bin\Debug\netcoreapp3.1\ObjetoDirectory.deps.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\bin\Debug\netcoreapp3.1\ObjetoDirectory.runtimeconfig.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\bin\Debug\netcoreapp3.1\ObjetoDirectory.runtimeconfig.dev.json
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\bin\Debug\netcoreapp3.1\ObjetoDirectory.dll
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\bin\Debug\netcoreapp3.1\ObjetoDirectory.pdb
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\obj\Debug\netcoreapp3.1\ObjetoDirectory.csprojAssemblyReference.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\obj\Debug\netcoreapp3.1\ObjetoDirectory.AssemblyInfoInputs.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\obj\Debug\netcoreapp3.1\ObjetoDirectory.AssemblyInfo.cs
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\obj\Debug\netcoreapp3.1\ObjetoDirectory.csproj.CoreCompileInputs.cache
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\obj\Debug\netcoreapp3.1\ObjetoDirectory.dll
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\obj\Debug\netcoreapp3.1\ObjetoDirectory.pdb
+C:\Repogit\Clases2020\2020\Clase8\ObjetoDirectory\ObjetoDirectory\obj\Debug\netcoreapp3.1\ObjetoDirectory.genruntimeconfig.cache
