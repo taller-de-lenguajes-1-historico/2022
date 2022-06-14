@@ -22,14 +22,14 @@ namespace TrabajandoJson
 
             ImprimirAlumnos(listadoAlumnos);
 
-            //Guardo archivo
+            //Guardo el archivo
             Console.WriteLine("--Serializando--");
             string alumnosJson = JsonSerializer.Serialize(listadoAlumnos);
             Console.WriteLine("Archivo Serializado : " + alumnosJson);
             Console.WriteLine("--Guardando--");
             miHelperdeArchivos.GuardarArchivoTexto(NombreArchivo, alumnosJson);
 
-            //Cierro Archivo
+            //Abro el Archivo
             Console.WriteLine("--Abriendo--");
             string jsonDocument = miHelperdeArchivos.AbrirArchivoTexto(NombreArchivo);
             Console.WriteLine("--Deserializando--");
