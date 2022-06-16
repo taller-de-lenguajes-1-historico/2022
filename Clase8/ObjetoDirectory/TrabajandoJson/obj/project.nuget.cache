@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JgYGZSKvXsMV6IPxM1SX83nJJYH/hxR9qfD8lZTGK8PE2HKouqYgO/tCWUgxeX3bGuqeNJwo2g0nTdCG/kjzow==",
+  "dgSpecHash": "ocQcKXxDpqaBdEmbHsNUaeL6A9CTleAh9O0d97r5l+AZl2bNuWWCSviPNOKejMdf7pzlM0gaIWkOkbealjno+g==",
   "success": true,
   "projectFilePath": "C:\\RepoGit\\Taller1\\2022\\Clase8\\ObjetoDirectory\\TrabajandoJson\\TrabajandoJson.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\javie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

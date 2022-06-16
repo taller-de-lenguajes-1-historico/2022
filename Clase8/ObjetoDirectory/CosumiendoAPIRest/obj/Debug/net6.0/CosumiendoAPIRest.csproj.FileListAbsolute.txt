@@ -1,0 +1,15 @@
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\bin\Debug\net6.0\CosumiendoAPIRest.exe
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\bin\Debug\net6.0\CosumiendoAPIRest.deps.json
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\bin\Debug\net6.0\CosumiendoAPIRest.runtimeconfig.json
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\bin\Debug\net6.0\CosumiendoAPIRest.dll
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\bin\Debug\net6.0\CosumiendoAPIRest.pdb
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\CosumiendoAPIRest.csproj.AssemblyReference.cache
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\CosumiendoAPIRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\CosumiendoAPIRest.AssemblyInfoInputs.cache
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\CosumiendoAPIRest.AssemblyInfo.cs
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\CosumiendoAPIRest.csproj.CoreCompileInputs.cache
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\CosumiendoAPIRest.dll
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\refint\CosumiendoAPIRest.dll
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\CosumiendoAPIRest.pdb
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\CosumiendoAPIRest.genruntimeconfig.cache
+C:\RepoGit\Taller1\2022\Clase8\ObjetoDirectory\CosumiendoAPIRest\obj\Debug\net6.0\ref\CosumiendoAPIRest.dll

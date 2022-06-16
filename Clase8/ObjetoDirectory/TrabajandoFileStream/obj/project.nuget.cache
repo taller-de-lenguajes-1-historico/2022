@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wm26aJ1ZItAQLhYK06Q7DAbSACKSZrpo2d2d5j9V+zdXz5PQAnpxV7fZTILWVqBq9dg5KAQL8Cwl3jEMjEjQPg==",
+  "dgSpecHash": "bAcTic/Q5VebdPmPeU5mKxyeAHnotyAWuArlmsb5Iuvzx8It4cumsUUcCgrephaP+rjGbamh1W91l61VI0RwZg==",
   "success": true,
   "projectFilePath": "C:\\RepoGit\\Taller1\\2022\\Clase8\\ObjetoDirectory\\TrabajandoFileStream\\TrabajandoFileStream.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\javie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

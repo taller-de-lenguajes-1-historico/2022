@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uz159k33pGtg4/4mNo/2TBicxg5EmnyI0Hh8nFYwhwxG8nji/qZOUknqJ/be/QWSpArEUUhvndjFJVYFBqt/+w==",
+  "dgSpecHash": "ywbXH97gT7QkKG18vS2Y0MlpEtSk8s9X0U4BKVkV+n1Zobx6JKrMpJ0uEz9Gd8HzwAzDgJcyixkxweLkMCZvNw==",
   "success": true,
   "projectFilePath": "C:\\RepoGit\\Taller1\\2022\\Clase8\\ObjetoDirectory\\ObjetoDirectory\\ObjetoDirectory.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\javie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
