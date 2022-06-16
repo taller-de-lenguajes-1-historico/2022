@@ -9,22 +9,28 @@ namespace TrabajandoJson
         public string AbrirArchivoTexto(string nombreArchivo)
         {
             string documento;
-            var archivoOpen = new FileStream(nombreArchivo, FileMode.Open);
-            using (var strReader = new StreamReader(archivoOpen))
+              using (var archivoOpen = new FileStream(nombreArchivo, FileMode.Open))
             {
-                documento = strReader.ReadToEnd();
+                using (var strReader = new StreamReader(archivoOpen))
+                {
+                    documento = strReader.ReadToEnd();
+                    archivoOpen.Close();
+                }
             }
+
 
             return documento;
         }
 
         public void GuardarArchivoTexto(string nombreArchivo, string datos)
         {
-            var archivo = new FileStream(nombreArchivo, FileMode.Create);
-            using (var strWriter = new StreamWriter(archivo))
+             using(var archivo = new FileStream(nombreArchivo, FileMode.Create))
             {
-                strWriter.WriteLine("{0}", datos);
-                strWriter.Close();
+                using (var strWriter = new StreamWriter(archivo))
+                {
+                    strWriter.WriteLine("{0}", datos);
+                    strWriter.Close();
+                }
             }
         }
     }
