@@ -1,0 +1,15 @@
+C:\RepoGit\MuestraNet\muestra\bin\Debug\net6.0\muestra.exe
+C:\RepoGit\MuestraNet\muestra\bin\Debug\net6.0\muestra.deps.json
+C:\RepoGit\MuestraNet\muestra\bin\Debug\net6.0\muestra.runtimeconfig.json
+C:\RepoGit\MuestraNet\muestra\bin\Debug\net6.0\muestra.dll
+C:\RepoGit\MuestraNet\muestra\bin\Debug\net6.0\muestra.pdb
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\muestra.csproj.AssemblyReference.cache
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\muestra.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\muestra.AssemblyInfoInputs.cache
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\muestra.AssemblyInfo.cs
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\muestra.csproj.CoreCompileInputs.cache
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\muestra.dll
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\refint\muestra.dll
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\muestra.pdb
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\muestra.genruntimeconfig.cache
+C:\RepoGit\MuestraNet\muestra\obj\Debug\net6.0\ref\muestra.dll

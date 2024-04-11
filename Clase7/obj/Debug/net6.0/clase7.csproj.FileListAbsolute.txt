@@ -1,0 +1,15 @@
+C:\RepoGit\temp\2022\Clase7\bin\Debug\net6.0\clase7.exe
+C:\RepoGit\temp\2022\Clase7\bin\Debug\net6.0\clase7.deps.json
+C:\RepoGit\temp\2022\Clase7\bin\Debug\net6.0\clase7.runtimeconfig.json
+C:\RepoGit\temp\2022\Clase7\bin\Debug\net6.0\clase7.dll
+C:\RepoGit\temp\2022\Clase7\bin\Debug\net6.0\clase7.pdb
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\clase7.csproj.AssemblyReference.cache
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\clase7.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\clase7.AssemblyInfoInputs.cache
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\clase7.AssemblyInfo.cs
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\clase7.csproj.CoreCompileInputs.cache
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\clase7.dll
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\refint\clase7.dll
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\clase7.pdb
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\clase7.genruntimeconfig.cache
+C:\RepoGit\temp\2022\Clase7\obj\Debug\net6.0\ref\clase7.dll
