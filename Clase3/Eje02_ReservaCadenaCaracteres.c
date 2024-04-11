@@ -9,7 +9,7 @@ int main()
     int tamanioconCaracterNulo = sizeof("Hola mundo"); // considera el caracter nulo por lo tanto devuelve 11
     
     char * Cadena;     
-    Cadena = (char *) malloc (sizeof(char) * tamanio + 1); // Reserva de memoria para la cadena pero aumento 1 byte para el carcter nulo
+    Cadena = (char *) malloc (sizeof(char) * tamanioSinNulo + 1); // Reserva de memoria para la cadena pero aumento 1 byte para el carcter nulo
     
     strcpy(Cadena, "Hola mundo");  
     printf("%s",Cadena);
