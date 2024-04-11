@@ -11,11 +11,13 @@ void *ReservarMemoria(int TotBytes);//función que devuelve un puntero a void
 int main()
 {
   int *p;
+
+  printf(" en direccion del puntero P: %p\r\n\r\n",&p);
   p = (int *)ReservarMemoria(sizeof(int));//direccion de memoria
   *p=5;
   
    //p es una direccióna a donde apunta y *p el contenido de lo apuntado
-  printf("Contenido de %d en la direccion: %p\r\n\r\n",*p,p);
+  printf("Contenido de p %d en la direccion p: %p\r\n\r\n",*p,p);
   
   free(p);//libera memoria
   
