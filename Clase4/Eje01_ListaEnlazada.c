@@ -11,12 +11,13 @@ typedef struct Tnodo
    Tnodo * siguiente;
 }Tnodo;
 
-void  *ReservarMemoria(int TotBytes);
 Tnodo *CrearListaVacia();
-void CrearNodo(Tnodo ** Start,int dato);
-void CrearNodoALFinal(Tnodo ** Start,int dato);
-int BuscarNodo(Tnodo ** Start,int dato);
-void ELiminarNodo(Tnodo ** Start,int dato);
+Tnodo * CrearNodo(int dato);
+void InsertarNodo(Tnodo ** Start , Tnodo *Nodo);
+void CrearNodoAlFinal(Tnodo ** Start,int dato);
+Tnodo * BuscarNodo(Tnodo ** Start,int dato);
+void EliminarNodo(Tnodo ** Start,int dato);
+void LiberarMemoriaNodo(Tnodo * nodo);
 
 int main()
 {
@@ -24,14 +25,16 @@ int main()
   //Cabecera de la Lista
   Tnodo * Start = CrearListaVacia();
   // nuevo nodo
-  CrearNodo(&Start, rand() % 99); 
-  CrearNodo(&Start, 5); 
-  // Insertar nodo a la lista
-  CrearNodoALFinal(&Start, 10);
-  CrearNodoALFinal(&Start, 20);
-  CrearNodoALFinal(&Start, 30);
-  BuscarNodo(&Start,10);
+  //CrearNodo(rand() % 99); 
+  //CrearNodo(&Start, 5); 
   
+  // Insertar nodo a la lista
+  InsertarNodo(&Start, CrearNodo(10));
+  InsertarNodo(&Start, CrearNodo(20));
+  InsertarNodo(&Start, CrearNodo(30));
+
+  Tnodo * buscado =BuscarNodo(&Start,20);
+  EliminarNodo(&Start, 50);
   Tnodo * Aux = Start;
   while (Aux)
   {
@@ -39,43 +42,34 @@ int main()
     Aux = Aux->siguiente;
   }
   
-
   getchar();
   return 0;
-
 }
 
-void ELiminarNodo(Tnodo ** Start,int dato)
-{
-  int DatoBuscado = dato;
-  Tnodo * Aux = *Start;
-  Tnodo * AuxAnterior;
-  
-  while (Aux && Aux->dato != DatoBuscado)
-  {
-    AuxAnterior = Aux;
-    Aux = Aux->siguiente;
-  }
+void EliminarNodo(Tnodo **Start, int dato) {
+    Tnodo ** aux = Start;  // Usamos un puntero doble para apuntar al puntero actual.
+    
+    // Iteramos sobre la lista hasta encontrar el dato o alcanzar el final de la lista.
+    while (*aux != NULL && (*aux)->dato != dato) {
+        aux = &(*aux)->siguiente;
+    }
 
-  if(Aux)
-  {
-    AuxAnterior->siguiente = Aux ->siguiente;
-    printf("Dato Encontado: %d", Aux->dato);
-    free(Aux);
-    printf("Dato Eliminado: %d", Aux->dato);
-  }
-
+    // Si encontramos el nodo con el dato especificado, lo eliminamos.
+    if (*aux) {
+        Tnodo *temp = *aux;  // Guardamos el nodo a eliminar en una variable temporal.
+        *aux = (*aux)->siguiente;  // Desvinculamos el nodo de la lista.
+        free(temp);  // Liberamos la memoria ocupada por el nodo.
+    }
 }
 
-int BuscarNodo(Tnodo ** Start,int dato)
+Tnodo * BuscarNodo(Tnodo ** Start,int dato)
 {
-  
   Tnodo * Aux = *Start;
-
   while (Aux && Aux->dato != dato)
   {
     Aux = Aux->siguiente;
   }
+  return Aux;
 }
 
 
@@ -84,16 +78,22 @@ Tnodo * CrearListaVacia()
     return NULL;
 }
 
-void CrearNodo(Tnodo ** Start,int dato)
+Tnodo * CrearNodo(int dato)
 {
   Tnodo * nodo = (Tnodo *) malloc(sizeof(Tnodo));
   nodo->dato = dato;
   nodo->siguiente = NULL;
-  *Start = nodo;
+  return nodo;
+}
+
+void InsertarNodo(Tnodo ** Start , Tnodo *Nodo)
+{
+    Nodo->siguiente = *Start;
+    *Start  = Nodo ;
 }
 
 
-void CrearNodoALFinal(Tnodo ** Start,int dato)
+void CrearNodoAlFinal(Tnodo ** Start,int dato)
 {
   Tnodo * Aux = *Start;
   Tnodo * nodo = (Tnodo *) malloc(sizeof(Tnodo));
@@ -105,20 +105,5 @@ void CrearNodoALFinal(Tnodo ** Start,int dato)
     Aux = Aux->siguiente;
   }
    Aux->siguiente = nodo;
-  
 }
 
-
-// Reserva memoria 
-///devuelve null si no se pudo reservar y cierra el programa
-///devuelve un puntero a la reserva si tuvo exito
-void *ReservarMemoria(int TotBytes)
-{
-void *pAux;
-  
-  if((pAux=malloc(TotBytes))==NULL) {
-    printf("No pudo reservar memoria dinámica");
-    getchar( ); exit(1);
-  }
-  return(pAux);
-}

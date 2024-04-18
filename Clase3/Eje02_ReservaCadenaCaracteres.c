@@ -4,14 +4,14 @@
 
 int main()
 {
-    char * Origen = "Hola mundo";
-    int tamanioSinNulo = strlen("Hola mundo"); // no considera el caracter nulo por lo tanto devuelve 10
-    int tamanioconCaracterNulo = sizeof("Hola mundo"); // considera el caracter nulo por lo tanto devuelve 11
-    
+    char * buff[50];
+    scanf("%s", buff);
+    int tamanioDeCadenaIngresadaPorUsuario = strlen(buff); // no considera el caracter nulo por lo tanto devuelve 10
+   
     char * Cadena;     
-    Cadena = (char *) malloc (sizeof(char) * tamanioSinNulo + 1); // Reserva de memoria para la cadena pero aumento 1 byte para el carcter nulo
+    Cadena = (char *) malloc (sizeof(char) * tamanioDeCadenaIngresadaPorUsuario + 1); // Reserva de memoria para la cadena pero aumento 1 byte para el carcter nulo
     
-    strcpy(Cadena, "Hola mundo");  
+    strcpy(Cadena, buff);  
     printf("%s",Cadena);
     
     getchar();  

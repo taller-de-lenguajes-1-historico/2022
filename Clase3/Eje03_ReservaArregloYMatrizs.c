@@ -15,9 +15,10 @@ int main()
 {
     int *pVect;
     int  i;
-
-    pVect = (int *)ReservarMemoria(DIM*sizeof(int)); //Reservo DIM elementos  
-    for(i=0;i<DIM;i++)
+    int  tamArreglo;
+    scanf("%d",&tamArreglo);
+    pVect = (int *)ReservarMemoria(tamArreglo*sizeof(int)); //Reservo DIM elementos  
+    for(i=0;i<tamArreglo;i++)
     {
         *(pVect+i) = 100+ rand()  % 801;//entre 100 y 900
         printf("pVect[%d]: %d \r\n",i,*(pVect+i));
