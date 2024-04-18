@@ -14,10 +14,9 @@ typedef struct Tnodo
 Tnodo *CrearListaVacia();
 Tnodo * CrearNodo(int dato);
 void InsertarNodo(Tnodo ** Start , Tnodo *Nodo);
-void CrearNodoAlFinal(Tnodo ** Start,int dato);
+void InsertarNodoAlFinal(Tnodo ** Start,Tnodo *Nodo);
 Tnodo * BuscarNodo(Tnodo ** Start,int dato);
 void EliminarNodo(Tnodo ** Start,int dato);
-void LiberarMemoriaNodo(Tnodo * nodo);
 
 int main()
 {
@@ -93,12 +92,9 @@ void InsertarNodo(Tnodo ** Start , Tnodo *Nodo)
 }
 
 
-void CrearNodoAlFinal(Tnodo ** Start,int dato)
+void InsertarNodoAlFinal(Tnodo ** Start,Tnodo * nodo)
 {
   Tnodo * Aux = *Start;
-  Tnodo * nodo = (Tnodo *) malloc(sizeof(Tnodo));
-  nodo->dato = dato;
-  nodo->siguiente = NULL;
 
   while (Aux->siguiente)
   {

@@ -3,7 +3,7 @@
         {
             "type": "shell",
             "label": "g++.exe build active file",
-            "command": "C:\\cygwin\\bin\\g++.exe",
+            "command": "C:\\w64devkit\\bin\\g++.exe",
             "args": [
                 "-g",
                 "${file}",
@@ -11,7 +11,7 @@
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
-                "cwd": "C:\\cygwin\\bin"
+                "cwd": "C:\\w64devkit\\bin"
             }
         }
     ],
