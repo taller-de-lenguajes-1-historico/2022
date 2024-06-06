@@ -1,0 +1,15 @@
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\descarte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\descarte.AssemblyInfoInputs.cache
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\descarte.AssemblyInfo.cs
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\descarte.csproj.CoreCompileInputs.cache
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\descarte.sourcelink.json
+C:\Repositorio\Taller2024\2022\descarte\bin\Debug\net8.0\descarte.exe
+C:\Repositorio\Taller2024\2022\descarte\bin\Debug\net8.0\descarte.deps.json
+C:\Repositorio\Taller2024\2022\descarte\bin\Debug\net8.0\descarte.runtimeconfig.json
+C:\Repositorio\Taller2024\2022\descarte\bin\Debug\net8.0\descarte.dll
+C:\Repositorio\Taller2024\2022\descarte\bin\Debug\net8.0\descarte.pdb
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\descarte.dll
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\refint\descarte.dll
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\descarte.pdb
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\descarte.genruntimeconfig.cache
+C:\Repositorio\Taller2024\2022\descarte\obj\Debug\net8.0\ref\descarte.dll
