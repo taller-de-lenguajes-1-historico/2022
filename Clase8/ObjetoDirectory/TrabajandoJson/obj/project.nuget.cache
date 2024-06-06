@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ocQcKXxDpqaBdEmbHsNUaeL6A9CTleAh9O0d97r5l+AZl2bNuWWCSviPNOKejMdf7pzlM0gaIWkOkbealjno+g==",
+  "dgSpecHash": "K0vJDcGx7No=",
   "success": true,
-  "projectFilePath": "C:\\RepoGit\\Taller1\\2022\\Clase8\\ObjetoDirectory\\TrabajandoJson\\TrabajandoJson.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\TrabajandoJson\\TrabajandoJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

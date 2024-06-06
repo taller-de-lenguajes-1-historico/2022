@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E85591E-8095-4325-B65F-C5FE22C690EC}|TrabajandoJson\\TrabajandoJson.csproj|c:\\repositorio\\taller2024\\2022\\clase8\\objetodirectory\\trabajandojson\\helperdejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E85591E-8095-4325-B65F-C5FE22C690EC}|TrabajandoJson\\TrabajandoJson.csproj|solutionrelative:trabajandojson\\helperdejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E85591E-8095-4325-B65F-C5FE22C690EC}|TrabajandoJson\\TrabajandoJson.csproj|c:\\repositorio\\taller2024\\2022\\clase8\\objetodirectory\\trabajandojson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E85591E-8095-4325-B65F-C5FE22C690EC}|TrabajandoJson\\TrabajandoJson.csproj|solutionrelative:trabajandojson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEAE9D3-B30C-44CC-B691-3EC32B8BE659}|CosumiendoAPIRest\\CosumiendoAPIRest.csproj|c:\\repositorio\\taller2024\\2022\\clase8\\objetodirectory\\cosumiendoapirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEAE9D3-B30C-44CC-B691-3EC32B8BE659}|CosumiendoAPIRest\\CosumiendoAPIRest.csproj|solutionrelative:cosumiendoapirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEAE9D3-B30C-44CC-B691-3EC32B8BE659}|CosumiendoAPIRest\\CosumiendoAPIRest.csproj|c:\\repositorio\\taller2024\\2022\\clase8\\objetodirectory\\cosumiendoapirest\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEAE9D3-B30C-44CC-B691-3EC32B8BE659}|CosumiendoAPIRest\\CosumiendoAPIRest.csproj|solutionrelative:cosumiendoapirest\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEAE9D3-B30C-44CC-B691-3EC32B8BE659}|CosumiendoAPIRest\\CosumiendoAPIRest.csproj|c:\\repositorio\\taller2024\\2022\\clase8\\objetodirectory\\cosumiendoapirest\\cosumiendoapirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ABEAE9D3-B30C-44CC-B691-3EC32B8BE659}|CosumiendoAPIRest\\CosumiendoAPIRest.csproj|solutionrelative:cosumiendoapirest\\cosumiendoapirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8545CA-84FB-41A7-859F-60D087699B89}|TrabanjadoConArchivos\\TrabanjadoConArchivos.csproj|c:\\repositorio\\taller2024\\2022\\clase8\\objetodirectory\\trabanjadoconarchivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8545CA-84FB-41A7-859F-60D087699B89}|TrabanjadoConArchivos\\TrabanjadoConArchivos.csproj|solutionrelative:trabanjadoconarchivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\CosumiendoAPIRest\\Provincia.cs",
+              "RelativeDocumentMoniker": "CosumiendoAPIRest\\Provincia.cs",
+              "ToolTip": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\CosumiendoAPIRest\\Provincia.cs",
+              "RelativeToolTip": "CosumiendoAPIRest\\Provincia.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwD4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:44:47.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CosumiendoAPIRest.csproj",
+              "DocumentMoniker": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\CosumiendoAPIRest\\CosumiendoAPIRest.csproj",
+              "RelativeDocumentMoniker": "CosumiendoAPIRest\\CosumiendoAPIRest.csproj",
+              "ToolTip": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\CosumiendoAPIRest\\CosumiendoAPIRest.csproj",
+              "RelativeToolTip": "CosumiendoAPIRest\\CosumiendoAPIRest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T13:44:48.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\TrabanjadoConArchivos\\Program.cs",
+              "RelativeDocumentMoniker": "TrabanjadoConArchivos\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\TrabanjadoConArchivos\\Program.cs",
+              "RelativeToolTip": "TrabanjadoConArchivos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:44:48.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\TrabajandoJson\\Program.cs",
+              "RelativeDocumentMoniker": "TrabajandoJson\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\TrabajandoJson\\Program.cs",
+              "RelativeToolTip": "TrabajandoJson\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:44:48.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelperDeJson.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\TrabajandoJson\\HelperDeJson.cs",
+              "RelativeDocumentMoniker": "TrabajandoJson\\HelperDeJson.cs",
+              "ToolTip": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\TrabajandoJson\\HelperDeJson.cs",
+              "RelativeToolTip": "TrabajandoJson\\HelperDeJson.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:44:48.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\CosumiendoAPIRest\\Program.cs",
+              "RelativeDocumentMoniker": "CosumiendoAPIRest\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\CosumiendoAPIRest\\Program.cs",
+              "RelativeToolTip": "CosumiendoAPIRest\\Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwG4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:44:48.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

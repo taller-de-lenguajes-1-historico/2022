@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bAcTic/Q5VebdPmPeU5mKxyeAHnotyAWuArlmsb5Iuvzx8It4cumsUUcCgrephaP+rjGbamh1W91l61VI0RwZg==",
+  "dgSpecHash": "JjzHNumMkK0=",
   "success": true,
-  "projectFilePath": "C:\\RepoGit\\Taller1\\2022\\Clase8\\ObjetoDirectory\\TrabajandoFileStream\\TrabajandoFileStream.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Repositorio\\Taller2024\\2022\\Clase8\\ObjetoDirectory\\TrabajandoFileStream\\TrabajandoFileStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
