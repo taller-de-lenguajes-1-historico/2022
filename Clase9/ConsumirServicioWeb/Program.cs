@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System.Net.WebSockets;
+using System.Text.Json;
 
 var listClima = await GetClimaAsync();
 var listProvincias = await GetProvinciasArgentinasAsync();
@@ -17,7 +18,32 @@ foreach (var Prov in listClima)
     Console.WriteLine("Nombre: " + Prov.name + " Temperatura: " + Prov.weather.temp);
 }
 
+CoinDesk salida = await GetCurrecyRateAsync();
 
+Console.WriteLine("UUS = " + salida.Bpi.USD.RateFloat);
+
+
+
+static async Task<CoinDesk> GetCurrecyRateAsync()
+{
+    var url = "https://api.coindesk.com/v1/bpi/currentprice.json";
+    try
+    {
+        HttpClient client = new HttpClient();
+        HttpResponseMessage response = await client.GetAsync(url);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        CoinDesk coinDesk = JsonSerializer.Deserialize<CoinDesk>(responseBody);
+        return coinDesk;
+    }
+    catch (HttpRequestException e)
+    {
+        Console.WriteLine("Problemas de acceso a la API");
+        Console.WriteLine("Message :{0} ", e.Message);
+        return null;
+    }
+
+}
 
 static async Task<List<Root>> GetClimaAsync()
 {
@@ -39,9 +65,6 @@ static async Task<List<Root>> GetClimaAsync()
         return null;
     }
 }
-
-
-
 
 static async Task<ProvinciasArgentina> GetProvinciasArgentinasAsync()
 {

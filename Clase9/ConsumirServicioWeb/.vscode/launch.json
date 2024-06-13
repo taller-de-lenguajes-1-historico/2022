@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net8.0/ConsumirServicioWeb.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/ConsumirServicioWeb.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
